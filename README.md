@@ -7,5 +7,5 @@ Esse repositório possui as seguintes modelagens:
 - Planta Low Poly;
 - Rosquinha (donut);
 - Cavalo Low Poly;
-- Fotorrealismo;
+- Trabalho de Fotorrealismo (UNIFAL), feito em dupla;
 - Cupcake;
